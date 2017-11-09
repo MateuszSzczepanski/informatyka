@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510264398 source:d:\programy\codeblocks\zadanie_09.11.2017\zadanie_09.11.2017\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
