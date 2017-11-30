@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512077591 source:d:\programy\codeblocks\zadanie_09.11.2017\zadanie dom 2 30.11\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+
